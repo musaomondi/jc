@@ -23,15 +23,15 @@ a[href^="tel:"] {
 .center {
   text-align: center;
 }
-.spinner {
-  position: fixed;
-  left: 0px;
-  top: 0px;
-  width: 100%;
-  height: 100%;
-  z-index: 9999;
-  background: url(../img/spinner.gif) 50% 50% no-repeat #fff;
-}
+/* .spinner { */
+/*   position: fixed; */
+/*   left: 0px; */
+/*   top: 0px; */
+/*   width: 100%; */
+/*   height: 100%; */
+/*   z-index: 9999; */
+/*   background: url(../img/spinner.gif) 50% 50% no-repeat #fff; */
+/* } */
 .preloader {
   background: url(../img/loader.gif) center center no-repeat;
 }
